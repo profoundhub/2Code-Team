@@ -1,6 +1,7 @@
 #wrapper {
   padding-left: 0px;
   padding-right: 0px;
+  border-radius: 0px 
 }
 #nav-list li{
   display: inline-block;
